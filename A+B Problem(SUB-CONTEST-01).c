@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// Aryan Kabir
+// Antineo
 // https://facebook.com/ictd.kabir
 
 int main()
