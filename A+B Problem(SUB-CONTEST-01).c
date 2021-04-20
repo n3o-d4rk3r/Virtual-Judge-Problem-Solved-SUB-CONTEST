@@ -1,8 +1,5 @@
 #include<stdio.h>
 
-// Aryan Kabir
-// https://facebook.com/ictd.kabir
-
 int main()
 {
     int a, b;
